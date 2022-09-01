@@ -7,6 +7,8 @@
 </a>
 
 ## What is the Scaler September Open Source Challenge?
+Link for [Notion page](https://scalerdiscord.notion.site/scalerdiscord/Open-Source-September-Scaler-Discord-Community-f9306c7dc15a464ba1b6ea7ee30cdf0d).
+
 Every day throughout September, for those who have enrolled, we will share one task. 
 Participants will need to use their knowledge of Git and Github for each task, and the difficulty level of the tasks will rise daily.
 
@@ -28,7 +30,7 @@ If you haven't already, create an account on Github, and brush up on your skills
 
 ### Step 3
 
-Head to the official Scaler Open Source challenge repository. Star it. 
+Head to the official [Scaler Open Source challenge repository](https://github.com/scaleracademy/scaler-september-open-source-challenge/). Star it. 
 
 Keep track of the README, as a new task will be added every day. 
 
@@ -48,3 +50,8 @@ Here is the reward [tier list](https://scalerdiscord.notion.site/3eabe9a1900c4b8
 For all communications and queries, you can join our [Discord Server](https://discord.com/invite/scaler).
 
 ## Resources
+1. Launch Video for the September Challenge: [Guide to Github and the Open Source Challenge](https://youtu.be/70nx_YxE56Q)
+2. Git Tutorial: [Full Git Tutorial](https://www.youtube.com/watch?v=ZtfZGVQWjew)
+3. Find good first issues to contribute to: [Good First issues](https://goodfirstissue.dev/)
+4. Getting started with Github: [All you need to know about Github](https://www.youtube.com/watch?v=8WYXWs96xxc)
+5. How to contribute to Open Source: [Open Source contribution guide](https://www.youtube.com/watch?v=ABty2r3nDyU)
