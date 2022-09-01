@@ -30,15 +30,7 @@ If you haven't already, create an account on Github, and brush up on your skills
 
 ### Step 3
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 Head to the official [Scaler Open Source challenge repository](https://github.com/scaleracademy/scaler-september-open-source-challenge/). Star it. 
-=======
-Head to the official Scaler Open Source challenge repository. Star it. 
->>>>>>> 7e86e9d (Update README.md)
-=======
-Head to the official [Scaler Open Source challenge repository](https://github.com/scaleracademy/scaler-september-open-source-challenge/). Star it. 
->>>>>>> 29fdd2a (Make final update to ReadME)
 
 Keep track of the README, as a new task will be added every day. 
 
