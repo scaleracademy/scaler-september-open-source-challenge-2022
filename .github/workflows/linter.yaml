@@ -1,0 +1,106 @@
+name: Lint Code Base
+
+on:
+  push:
+    branches-ignore: [master, main]
+    # Remove the line above to run when pushing to master
+  pull_request:
+    branches: [master, main]
+
+jobs:
+  build:
+    # Name the Job
+    name: Lint Code Base
+    # Set the agent to run on
+    runs-on: ubuntu-latest
+
+    ##################
+    # Load all steps #
+    ##################
+    steps:
+      ##########################
+      # Checkout the code base #
+      ##########################
+      - name: Checkout Code
+        uses: actions/checkout@v3
+        with:
+          # Full git history is needed to get a proper list of changed files within `super-linter`
+          fetch-depth: 0
+
+      ################################
+      # Run Linter against code base #
+      ################################
+      - name: Lint Code Base
+        uses: github/super-linter@v4
+        env:
+          VALIDATE_ALL_CODEBASE: false
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 1258515 (Create kajalchoudhary1003.md)
+=======
+>>>>>>> a3e64c6 (resolved)
+=======
+>>>>>>> 07403ea (resolved)
+=======
+>>>>>>> 3b76a8a (resolved)
+          DEFAULT_BRANCH: main
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+=======
+          DEFAULT_BRANCH: master
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+>>>>>>> 80ec60d (challenge 19 - 1)
+=======
+          DEFAULT_BRANCH: main
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+>>>>>>> 5b25af0 (Update linter.yaml)
+=======
+          DEFAULT_BRANCH: master
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+>>>>>>> 80ec60d (challenge 19 - 1)
+=======
+          DEFAULT_BRANCH: main
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+>>>>>>> 5b25af0 (Update linter.yaml)
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> a3e64c6 (resolved)
+=======
+          DEFAULT_BRANCH: master
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+>>>>>>> 80ec60d (challenge 19 - 1)
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 07403ea (resolved)
+=======
+          DEFAULT_BRANCH: main
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+>>>>>>> 5b25af0 (Update linter.yaml)
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3b76a8a (resolved)
+=======
+          DEFAULT_BRANCH: main
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+>>>>>>> 26b86fb (Update linter.yaml)
+<<<<<<< HEAD
+=======
+>>>>>>> 1258515 (Create kajalchoudhary1003.md)
+=======
+>>>>>>> a3e64c6 (resolved)
+=======
+>>>>>>> 07403ea (resolved)
+=======
+>>>>>>> 3b76a8a (resolved)
