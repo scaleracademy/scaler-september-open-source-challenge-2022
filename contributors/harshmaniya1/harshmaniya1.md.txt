@@ -1,0 +1,6 @@
+---
+name : harsh maniya
+github_user_name : harshmaniya1
+url_of_github_issue : https://github.com/scaleracademy/scaler-september-open-source-challenge/issues/57
+your_favroite_programming_language: java
+---
