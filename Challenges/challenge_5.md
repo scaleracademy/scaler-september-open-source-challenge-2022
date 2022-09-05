@@ -29,4 +29,3 @@ github_user_name: YOUR-GITHUB-USERNAME
 5. Submit your Pull Request on the main challenge repo.
 =======
 5. Submit your Pull Request
->>>>>>> e5a28d5 (Challenge 5)
