@@ -1,4 +1,4 @@
 ---
-name: Shivay Lamba
-github_user: shivaylamba
+name: kalash vasaniya
+github_user: kalashvasaniya
 ---
