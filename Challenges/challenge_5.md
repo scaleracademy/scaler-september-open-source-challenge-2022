@@ -1,10 +1,14 @@
 ## Welcome to Challenge 5
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Welcome to the fifth challenge! 
 =======
 Welcome to the fourth challenge! 
 >>>>>>> e5a28d5 (Challenge 5)
+=======
+Welcome to the fifth challenge! 
+>>>>>>> 2496816 (Update challenge_5.md)
 Today's goal is to update your forked repository and then create a Pull Request
 
 Task
@@ -30,7 +34,11 @@ github_user_name: YOUR-GITHUB-USERNAME
 ---
 ```
 <<<<<<< HEAD
+<<<<<<< HEAD
 5. Submit your Pull Request on the main challenge repo.
 =======
 5. Submit your Pull Request
 >>>>>>> e5a28d5 (Challenge 5)
+=======
+5. Submit your Pull Request
+>>>>>>> 2496816 (Update challenge_5.md)
