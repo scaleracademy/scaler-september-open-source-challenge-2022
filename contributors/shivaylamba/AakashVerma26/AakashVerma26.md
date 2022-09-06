@@ -1,4 +1,4 @@
 ---
 name: Aakash Verma
-github_user_name: AaksshVerma26
+github_user_name: AakashVerma26
 ---
