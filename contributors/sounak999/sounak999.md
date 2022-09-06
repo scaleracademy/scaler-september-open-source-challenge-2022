@@ -1,5 +1,5 @@
 ---
-name: your_name
-github_user_name: YOUR-GITHUB-USERNAME
+name: Sounak Saha
+github_user_name: sounak999
 url_of_github_issue: https://github.com/scaleracademy/scaler-september-open-source-challenge/issues/345#issue-1359040766
 ---
