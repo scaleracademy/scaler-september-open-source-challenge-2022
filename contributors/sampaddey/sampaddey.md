@@ -1,4 +1,5 @@
 ---
-name: Sampad Dey
-github_user_name: sampaddey
+name: your_name
+github_user_name: YOUR-GITHUB-USERNAME
+url_of_github_issue: https://github.com/scaleracademy/scaler-september-open-source-challenge/issues/305
 ---
