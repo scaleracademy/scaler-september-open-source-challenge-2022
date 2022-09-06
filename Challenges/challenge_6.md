@@ -12,10 +12,14 @@ In the markdown file that was created in Challenge 5, edit the details as follow
 name: your_name
 github_user_name: YOUR-GITHUB-USERNAME
 <<<<<<< HEAD
+<<<<<<< HEAD
 url_of_github_issue: Link_of_the_github_issue_created_in_first_challenge
 =======
 url_of_github_isse: Link_of_the_github_issue_created_in_first_challenge
 >>>>>>> 880397b (Create challenge_6.md)
+=======
+url_of_github_issue: Link_of_the_github_issue_created_in_first_challenge
+>>>>>>> 4ef8315 (Update challenge_6.md)
 ---
 ```
 3. After making this change create a commit with a proper commit message and push the changes 
