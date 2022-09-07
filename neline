@@ -1,0 +1,64 @@
+[33mcommit a068b3bdd36cc77bca95b1b48bdbae2d2c9ad45e[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Thu Sep 1 11:03:49 2022 +0530
+
+    # This is a combination of 5 commits.
+    parent 40e3697f70515ea3c713e69bcc8e52e9efd98e3f
+    author Shivay Lamba <shivaylamba@gmail.com> 1662010429 +0530
+    committer suyog9139 <suyogwalunj3@gmail.com> 1662572090 +0530
+    
+    # This is a combination of 2 commits.
+    # This is the 1st commit message:
+    
+    Update README.md
+    
+    # This is the commit message #2:
+    
+    parent 7e86e9d4923fa98ddda041429b0654b5037872fc
+    author Suyog Walunj <79743514+suyog9139@users.noreply.github.com> 1662394098 +0530
+    committer suyog9139 <suyogwalunj3@gmail.com> 1662571456 +0530
+    
+    Create suyog9139.md
+    
+    challenge_6
+    
+    Make final update to ReadME
+    
+    Create CONTRIBUTING.md
+    
+    Add Challenge 1
+    
+    Update challenge_1.md
+    
+    Update challenge_1.md
+    
+    Create challenge_2.md
+    
+    Create challenge_3.md
+    
+    challenge 4
+    
+    challenge_6
+    
+    # This is the commit message #3:
+    
+    challenge_6
+    
+    # This is the commit message #4:
+    
+    Make final update to ReadME
+    # This is the commit message #5:
+    
+    Create CONTRIBUTING.md
+
+[33mcommit 40e3697f70515ea3c713e69bcc8e52e9efd98e3f[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Thu Sep 1 11:02:02 2022 +0530
+
+    Update details
+
+[33mcommit 2c35807854cc194747ca4443c480bcc119ea56ac[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Thu Aug 25 12:41:49 2022 +0530
+
+    Initial commit
