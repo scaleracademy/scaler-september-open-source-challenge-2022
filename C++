@@ -1,0 +1,40 @@
+int sum(Node* root, int k)
+
+{
+
+   // Your code here
+
+   queue<Node*>q;
+
+   q.push(root);
+
+   vector<int>nums;
+
+   while(!q.empty()){
+
+       Node* curr=q.front();
+
+       q.pop();
+
+       nums.push_back(curr->data);
+
+       if(curr->left)q.push(curr->left);
+
+       if(curr->right)q.push(curr->right);
+
+   }
+
+   sort(nums.begin(),nums.end());
+
+   int i=0,sum=0;
+
+   while(k--){
+
+       sum+=nums[i];
+
+       i++;
+
+   }
+
+return sum;
+}
