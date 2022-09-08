@@ -1,6 +1,6 @@
 
 ---
-name: Nikit Singh Kanyal<
+name: Nikit Singh Kanyal
 github_user_name: Nikit-370
 url_of_github_issue: https://github.com/scaleracademy/scaler-september-open-source-challenge/issues/917
 ---
