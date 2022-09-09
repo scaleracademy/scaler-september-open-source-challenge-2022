@@ -1,5 +1,6 @@
 ## Welcome to Challenge 6
 
+<<<<<<< HEAD
 Welcome to the sixth challenge!
 Today's goal is to update your pull request that you created in [Challenge 5](https://github.com/scaleracademy/scaler-september-open-source-challenge/blob/main/Challenges/challenge_5.md?plain=1)
 
@@ -9,10 +10,20 @@ Task
 2. The change that you have to make should be the following:
    In the markdown file that was created in Challenge 5, edit the details as follows:
 
+=======
+Welcome to the sixth challenge! 
+Today's goal is to update your pull request that you created in [Challenge 5](https://github.com/scaleracademy/scaler-september-open-source-challenge/blob/main/Challenges/challenge_5.md?plain=1)
+
+Task
+1. Create a new commit in the branch you created in Challenge 2 in your forked repository 
+2. The change that you have to make should be the following: 
+In the markdown file that was created in Challenge 5, edit the details as follows: 
+>>>>>>> 880397b (Create challenge_6.md)
 ```
 ---
 name: your_name
 github_user_name: YOUR-GITHUB-USERNAME
+<<<<<<< HEAD
 url_of_github_issue: Link_of_the_github_issue_created_in_first_challenge
 ---
 ```
@@ -25,3 +36,11 @@ url_of_github_issue: Link_of_the_github_issue_created_in_first_challenge
 4. Check if the commit reflects in the Pull request you created in Challenge 5
 
 >>>>>>> 9f6fbbb513b3517d2976ba899472e8db714ef86b
+=======
+url_of_github_isse: Link_of_the_github_issue_created_in_first_challenge
+---
+```
+3. After making this change create a commit with a proper commit message and push the changes 
+4. Check if the commit reflects in the Pull request you created in Challenge 5
+
+>>>>>>> 880397b (Create challenge_6.md)
