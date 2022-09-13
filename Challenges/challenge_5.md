@@ -25,20 +25,4 @@ name: your_name
 github_user_name: YOUR-GITHUB-USERNAME
 ---
 ```
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 5. Submit your Pull Request on the main challenge repo.
-=======
-5. Submit your Pull Request
->>>>>>> 2496816 (Update challenge_5.md)
-=======
-5. Submit your Pull Request on the main challenge repo.
->>>>>>> 866d6780cf0a9e4033a50a7c8fa23570e8e50bf6
-=======
-5. Submit your Pull Request on the main challenge repo.
->>>>>>> 693d4c386f40060aa7ee5a6f6fd2c4b4d4fb2992
-=======
-5. Submit your Pull Request on the main challenge repo.
->>>>>>> c6bd8de53b8b3c97ebbc4f8b6971c2b282d65dc4
