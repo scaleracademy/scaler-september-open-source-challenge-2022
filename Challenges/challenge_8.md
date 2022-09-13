@@ -1,8 +1,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 2974793 (challenge)
+=======
+>>>>>>> 08497e3485519bba52263596aa55d18a72d4513e
 ## Welcome to Challenge 8
 
 Welcome to the 8th challenge! 
@@ -14,6 +17,7 @@ Task:
 1. Inside the branch you created during the prior challenges in your forked repository, make a new file by the name of ``your-github-username-2.md`` and add any details you may want to add to this markwdown file and push the change
 
 2. Ensure the change appears in the Pull request created in previous challenges
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 =======
@@ -51,3 +55,5 @@ Task:
 =======
 2. Ensure the change appears in the Pull request created in previous challenges
 >>>>>>> 9f6fbbb (Update challenge_8.md)
+=======
+>>>>>>> 08497e3485519bba52263596aa55d18a72d4513e

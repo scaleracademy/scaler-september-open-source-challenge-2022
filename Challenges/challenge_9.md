@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 08497e3485519bba52263596aa55d18a72d4513e
 ## Welcome to Challenge 9
 
 Welcome to the ninth challenge! 
@@ -18,6 +21,7 @@ Task:
 1. Identify the commit id that needs to be removed (you should have created this in the 8th Challenge)
 2. Use git reset and force push, to remove the commit from your pull request. 
 3. Share a screenshot of this, in the issue you created in previous challenges. 
+<<<<<<< HEAD
 =======
 ## Welcome to Challenge 9
 
@@ -39,3 +43,5 @@ Task:
 2. Use git reset and force push, to remove the commit from your pull request. 
 3. Share a screenshot of this, in the issue you created in previous challenges. 
 >>>>>>> 083fa89 (Create challenge_9.md)
+=======
+>>>>>>> 08497e3485519bba52263596aa55d18a72d4513e

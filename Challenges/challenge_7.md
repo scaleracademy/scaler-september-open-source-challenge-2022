@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 08497e3485519bba52263596aa55d18a72d4513e
 ## Welcome to Challenge 7
 
 Welcome to the seventh challenge! 
@@ -8,6 +11,7 @@ So refer to [this guide](https://www.freecodecamp.org/news/git-squash-explained/
 
 Task: 
 1. Using the interactive mode of Git Rebase command combine the multiple commits created in your Pull requests and then push that to the Pull request you have created in the previous challenges. 
+<<<<<<< HEAD
 =======
 ## Welcome to Challenge 7
 
@@ -19,3 +23,5 @@ So refer to [this guide](https://www.freecodecamp.org/news/git-squash-explained/
 Task: 
 1. Using the interactive mode of Git Rebase command combine the multiple commits created in your Pull requests and then push that to the Pull request you have created in the previous challenges. 
 >>>>>>> c23ba1b (Create challenge_7.md)
+=======
+>>>>>>> 08497e3485519bba52263596aa55d18a72d4513e
