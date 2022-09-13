@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 305ae256fb1dc87ef72c6e7e3ed4899e4762f6c4
 ## Welcome to Challenge 10
 
 Welcome to the 10th challenge! 
@@ -19,4 +23,8 @@ github_user_name: YOUR-GITHUB-USERNAME
 url_of_github_issue: Link_of_the_github_issue_created_in_first_challenge
 your_favroite_programming_language: Add your favorite programming language here
 ---
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 305ae256fb1dc87ef72c6e7e3ed4899e4762f6c4

@@ -25,4 +25,8 @@ name: your_name
 github_user_name: YOUR-GITHUB-USERNAME
 ---
 ```
+<<<<<<< HEAD
 5. Submit your Pull Request on the main challenge repo.
+=======
+5. Submit your Pull Request on the main challenge repo.
+>>>>>>> 305ae256fb1dc87ef72c6e7e3ed4899e4762f6c4
