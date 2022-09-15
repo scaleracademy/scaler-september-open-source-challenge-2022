@@ -1,2 +1,3 @@
 initial content
 adding new contents to original content
+changing contents of merge.txt entirely for conflict
