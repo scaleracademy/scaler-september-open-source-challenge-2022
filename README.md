@@ -1,5 +1,4 @@
 # Scaler September Open Source Challenge
-
 <a href="https://discord.com/invite/scaler">
   <p align="center">
     <img src="https://user-images.githubusercontent.com/19529592/187837662-ed1d9753-11bf-48dd-86ce-f5683a55d990.png" />
@@ -31,6 +30,11 @@ If you haven't already, create an account on Github, and brush up on your skills
 ### Step 3
 
 Head to the official [Scaler Open Source challenge repository](https://github.com/scaleracademy/scaler-september-open-source-challenge/). Star it. 
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> 29fdd2a (Make final update to ReadME)
 
 Keep track of the README, as a new task will be added every day. 
 
@@ -55,3 +59,4 @@ For all communications and queries, you can join our [Discord Server](https://di
 3. Find good first issues to contribute to: [Good First issues](https://goodfirstissue.dev/)
 4. Getting started with Github: [All you need to know about Github](https://www.youtube.com/watch?v=8WYXWs96xxc)
 5. How to contribute to Open Source: [Open Source contribution guide](https://www.youtube.com/watch?v=ABty2r3nDyU)
+
