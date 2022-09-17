@@ -1,0 +1,224 @@
+[33mcommit 538333fd6a11466c3a095e0a09c64a532b27e01d[m[33m ([m[1;36mHEAD -> [m[1;32mTusharKuwar-details[m[33m, [m[1;31morigin/TusharKuwar-details[m[33m)[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Sat Sep 17 12:29:10 2022 +0530
+
+    challenge 17
+    
+    Signed-off-by: TusharKuwar <tushar.kuwar7@gmail.com>
+
+[33mcommit aa5b7437b3865600a0e061eb1944b58f09b2370f[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Fri Sep 16 12:22:46 2022 +0530
+
+    add challenge 16
+    
+    Signed-off-by: TusharKuwar <tushar.kuwar7@gmail.com>
+
+[33mcommit ddf947e27730a0d8d131aa8769adc0cc5b1768ec[m
+Author: TusharKuwar <tushar.kuwar7@gmail.com>
+Date:   Fri Sep 16 00:26:52 2022 +0530
+
+    Merge conflict resolved
+    
+    Signed-off-by: TusharKuwar <tushar.kuwar7@gmail.com>
+
+[33mcommit 363496e747ceaa8dd2dbe1c5a8d68e6ee0cdba87[m
+Merge: 5ca6a40 13eef08
+Author: TUSHAR KUWAR <48707281+TusharKuwar@users.noreply.github.com>
+Date:   Fri Sep 16 00:24:48 2022 +0530
+
+    Merge branch 'scaleracademy:main' into TusharKuwar-details
+
+[33mcommit 13eef08e1ae30f4d4d77712cef9c75f7b2eee8b3[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Thu Sep 15 12:20:29 2022 +0530
+
+    small update
+
+[33mcommit a6ce5cf7f2ccd1284fecd2251d4c2e1dafdf2a85[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Thu Sep 15 12:19:59 2022 +0530
+
+    Challenge15
+
+[33mcommit 945ca397210225ea520e42802bfee11d7bb19e66[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Wed Sep 14 12:56:37 2022 +0530
+
+    Create challenge_14.md
+
+[33mcommit 085799d354f3374bcb61271c8289dcdb7b81b46c[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Tue Sep 13 12:47:21 2022 +0530
+
+    Update challenge_13.md
+
+[33mcommit 729b686150ef4dc293984800ca2d98cc45be5004[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Tue Sep 13 12:47:01 2022 +0530
+
+    Create challenge_13.md
+
+[33mcommit 693d4c386f40060aa7ee5a6f6fd2c4b4d4fb2992[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Mon Sep 12 13:30:14 2022 +0530
+
+    Update challenge_12.md
+
+[33mcommit 941d9b3ee471c80fc9b780fd901378bc0132275a[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Mon Sep 12 13:29:37 2022 +0530
+
+    Create challenge_12.md
+
+[33mcommit 866d6780cf0a9e4033a50a7c8fa23570e8e50bf6[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Sun Sep 11 15:49:34 2022 +0530
+
+    Create challenge_11.md
+
+[33mcommit 5ca6a40cbf7370627a9bec49c95606602618a3ec[m[33m ([m[1;32mchallange11[m[33m)[m
+Author: TusharKuwar <tushar.kuwar7@gmail.com>
+Date:   Sun Sep 11 00:50:30 2022 +0530
+
+    challenge 10 signing the commit
+    
+    Signed-off-by: TusharKuwar <tushar.kuwar7@gmail.com>
+
+[33mcommit c77de8e969b9c39a6cad24be07864b8f87e71c8c[m
+Author: TUSHAR KUWAR <48707281+TusharKuwar@users.noreply.github.com>
+Date:   Mon Sep 5 17:32:57 2022 +0530
+
+    parent 6d14cabd278392f06e701911a1d2b2af35b4244f
+    author TUSHAR KUWAR <48707281+TusharKuwar@users.noreply.github.com> 1662379377 +0530
+    committer TusharKuwar <tushar.kuwar7@gmail.com> 1662579015 +0530
+    
+    Create contributors/TusharKuwar/TusharKuwar.md
+    
+    Signed-off-by: TusharKuwar <tushar.kuwar7@gmail.com>
+
+[33mcommit 70ab9f8edb883a798ce2167cf0df74a74d0159aa[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Sat Sep 10 09:52:15 2022 +0530
+
+    Create challenge_10.md
+
+[33mcommit 083fa89dfebeb5e19e7059d7d2e33a2775c89d6c[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Fri Sep 9 11:27:55 2022 +0530
+
+    Create challenge_9.md
+
+[33mcommit 9f6fbbb513b3517d2976ba899472e8db714ef86b[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Thu Sep 8 11:53:39 2022 +0530
+
+    Update challenge_8.md
+
+[33mcommit eea5efad3837e1fbf108651ecf0792ca6dff96c0[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Thu Sep 8 11:53:19 2022 +0530
+
+    Create challenge_8.md
+
+[33mcommit c23ba1b6faee0f8385537ab54fdc496edbd02f40[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Wed Sep 7 11:51:57 2022 +0530
+
+    Create challenge_7.md
+
+[33mcommit 4ef831558fd90a7782e5868d1dd8c58e27b830c5[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Tue Sep 6 10:42:27 2022 +0530
+
+    Update challenge_6.md
+
+[33mcommit 880397b565ad0361c42f57481ff77104dd97b599[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Tue Sep 6 10:42:13 2022 +0530
+
+    Create challenge_6.md
+
+[33mcommit 6d14cabd278392f06e701911a1d2b2af35b4244f[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Mon Sep 5 10:37:48 2022 +0530
+
+    Update challenge_5.md
+
+[33mcommit 2496816dec20d887edb370a8c109df4e5db365a2[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Mon Sep 5 10:36:17 2022 +0530
+
+    Update challenge_5.md
+
+[33mcommit e5a28d5a804ba2b2dd0140cda662457ec9b60ec9[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Mon Sep 5 10:35:54 2022 +0530
+
+    Challenge 5
+
+[33mcommit d42ff5fd47b14c7482161c7cc3ab3b25583a63db[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Sun Sep 4 12:20:08 2022 +0530
+
+    challenge 4
+
+[33mcommit 252bcd163fd7e192a6b9a9d27d8dd8d18a7a87ec[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Sat Sep 3 12:06:05 2022 +0530
+
+    Create challenge_3.md
+
+[33mcommit 39fa290898d58f2c9ab5c7df437ae3397ec9d22f[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Fri Sep 2 12:10:51 2022 +0530
+
+    Create challenge_2.md
+
+[33mcommit 81eb74d9a859a28676ec8e17475c2a5ff189748f[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Thu Sep 1 11:47:44 2022 +0530
+
+    Update challenge_1.md
+
+[33mcommit d84c75ebd5785f4314fbdcf2164e62862635ee56[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Thu Sep 1 11:47:22 2022 +0530
+
+    Update challenge_1.md
+
+[33mcommit 8208c7f3be712fed64a93442a4cd9e0c3aaa2f14[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Thu Sep 1 11:34:37 2022 +0530
+
+    Add Challenge 1
+
+[33mcommit 42f43b8436fd45a7b982f819c8374613e0be700c[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Thu Sep 1 11:34:00 2022 +0530
+
+    Create CONTRIBUTING.md
+
+[33mcommit 29fdd2afb8d5a95c6348a73e418b73ea2f66aedb[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Thu Sep 1 11:12:19 2022 +0530
+
+    Make final update to ReadME
+
+[33mcommit 7e86e9d4923fa98ddda041429b0654b5037872fc[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Thu Sep 1 11:03:49 2022 +0530
+
+    Update README.md
+
+[33mcommit 40e3697f70515ea3c713e69bcc8e52e9efd98e3f[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Thu Sep 1 11:02:02 2022 +0530
+
+    Update details
+
+[33mcommit 2c35807854cc194747ca4443c480bcc119ea56ac[m
+Author: Shivay Lamba <shivaylamba@gmail.com>
+Date:   Thu Aug 25 12:41:49 2022 +0530
+
+    Initial commit
