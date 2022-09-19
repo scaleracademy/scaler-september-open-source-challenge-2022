@@ -1,20 +1,10 @@
-"""
-Sample python script
-"""
+""" Basic python program to print hello world"""
 
-print("before import")
-import math
 
-print("before function_a")
-def function_a():
-    print("Function A")
+def greet():
 
-print("before function_b")
-def function_b():
-    print("Function B {}".format(math.sqrt(100)))
+    """Function to print Hello world"""
+    print("Hello world")
 
-print("before __name__ guard")
-if __name__ == '__main__':
-    function_a()
-    function_b()
-print("after __name__ guard")
+
+greet()
