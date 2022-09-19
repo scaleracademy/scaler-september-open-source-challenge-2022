@@ -10,4 +10,4 @@ Task:
 
 1. You will notice that your pull request will have a conflict:
 2. Try to resolve this merge conflict using local git
-3. Once resolved, share screenshot on the github issue created in the previous challenges
+3. Once resolved, share screenshot on the GitHub issue created in the previous challenges
