@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "xiosbase": "cpp",
+    "xutility": "cpp"
+  }
+}
