@@ -1,6 +1,1 @@
-function showGlass(){
-	alert('Hello World')
-	console.log("Glasses")
-}
-
-showGlass()
+console.log("Hello World!")
