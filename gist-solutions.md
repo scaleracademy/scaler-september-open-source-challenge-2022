@@ -1,4 +1,4 @@
-<!-- Challenge18: Create Gists -->
+# Challenge18: Create Gists
 
 1. Create a gist writing on any software development related topic that interests you : [https://gist.github.com/shubhansu-kr/dac3d5820aa9f2aae39914fa2bd8c627](https://gist.github.com/shubhansu-kr/dac3d5820aa9f2aae39914fa2bd8c627)
 
