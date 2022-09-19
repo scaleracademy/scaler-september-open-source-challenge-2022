@@ -1,4 +1,6 @@
 """main function"""
+
+
 def knapsack_problem(weight_arr, value_arr, w_cap, n_items):
     """
     Returns maximum output
@@ -17,7 +19,8 @@ def knapsack_problem(weight_arr, value_arr, w_cap, n_items):
 
             if weight_arr[i - 1] <= j:
                 dp_dict[i][j] = max(
-                    value_arr[i - 1] + dp_dict[i - 1][j - weight_arr[i - 1]], dp_dict[i - 1][j]
+                    value_arr[i - 1] + dp_dict[i - 1][j - weight_arr[i - 1]],
+                    dp_dict[i - 1][j],
                 )
 
             else:
