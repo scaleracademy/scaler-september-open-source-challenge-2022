@@ -1,6 +1,6 @@
 package contributors.Rimjhim20;
 
-public class program {
+public class Program {
     public static void main(String[] args) {
         int x = 20;
         int y = 18;
