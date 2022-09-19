@@ -1,5 +1,5 @@
-let greet = () => {
-    console.log('Hello Scaler');
+const greet = () => {
+  console.log('Hello Scaler')
 }
 
-setInterval(greet, 1000);
+setInterval(greet, 1000)
