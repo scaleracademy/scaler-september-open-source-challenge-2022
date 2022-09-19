@@ -1,3 +1,3 @@
-# This program prints Hello !! This is Abhinav
+# This program prints Hello, world!
 
-print("Hello !! This is Abhinav")
+print("Hello, world!")
