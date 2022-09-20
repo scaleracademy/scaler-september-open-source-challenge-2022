@@ -4,16 +4,8 @@ Welcome to the 15th Challenge
 
 In this 2 part challenge, we will try to emulate and fix merge conflicts via git. 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 Today is the first part of this challenge: 
 
-=======
->>>>>>> Challenge15
-=======
-Today is the first part of this challenge: 
-
->>>>>>> small update
 Task: 
 1. Update your Forked Repo From the Original Repo. Also ensure that your branch ``your-user-name-details`` is also synced with the latest changes from the original repository
 
