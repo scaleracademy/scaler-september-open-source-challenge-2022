@@ -2,11 +2,13 @@
 This is just a demo program for linting
 """
 
+
 class World:
     """
     And this is a demo class for printing stuff
     """
-    def __init__(self, text= "World"):
+
+    def __init__(self, text="World"):
         """
         Constructor Doc String
         """
@@ -29,8 +31,8 @@ def main():
     """
     Main function to run script
     """
-    print(World('Aman'))
-    World().print('Peanuts in Pumpkins')
+    print(World("Aman"))
+    World().print("Peanuts in Pumpkins")
 
 
 if __name__ == "__main__":
