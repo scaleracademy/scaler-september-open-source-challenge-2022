@@ -1,7 +1,5 @@
 # Welcome to Challenge 16
 
-Welcome to the 16th Challenge
-
 In this 2 part challenge, we will try to emulate and fix merge conflicts via git.
 
 Today is the second and final part of this challenge:

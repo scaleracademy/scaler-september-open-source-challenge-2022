@@ -1,3 +1,4 @@
+
 # Welcome to Challenge 18
 
 Welcome to the 18th Challenge
@@ -5,6 +6,18 @@ Welcome to the 18th Challenge
 Today we will be learning to work with GitHub Gist and Markdown
 
 ## Brief Overview
+
+GitHub Gist is two fold and you can either use it for sharing ideas or sharing smaple code. It supports **Markdown**
+To learn more, vist:
+
+
+## Welcome to Challenge 18
+
+Welcome to the 18th Challenge 
+
+Today we will be learning to work with GitHub Gist and Markdown
+
+#### Brief Overview
 
 GitHub Gist is two fold and you can either use it for sharing ideas or sharing smaple code. It supports **Markdown**
 To learn more, vist:
@@ -19,5 +32,9 @@ To learn more, vist:
 ## How to Submit
 
 - Create your submission a Markdown file named ``gist-solutions.md`` and add it inside the branch ``your-username-details`` used in previous challenges
+- In your submission file add the links to your **2 gist**
+- Ensure you push it so that it reflects inside your Pull request created in previous challenges
+
+- Create your submission a markdown file named ``gist-solutions.md`` and add it inside the branch ``your-username-details`` used in previous challenges
 - In your submission file add the links to your **2 gist**
 - Ensure you push it so that it reflects inside your Pull request created in previous challenges
