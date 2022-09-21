@@ -1,3 +1,4 @@
+
 # Welcome to Challenge 17
 
 Welcome to the 17th Challenge
@@ -16,3 +17,6 @@ To learn more visit: [What the heck is Git GUI](https://help.github.com/en/deskt
 - Add anything you want to your repository
 - Follow through all the GitHub workflow you know using the GUI (commit, branching, pulling, pushing etc)
 - Share a screenshot of your experience using GitHub desktop on the issue created in prior challenges
+- Add anything you want to your repository
+- Follow through all the GitHub workflow you know using the GUI (commit, branching, pulling, pushing etc)
+- Share a screenshot of your experience using gitHub desktop on the issue created in prior challenges
