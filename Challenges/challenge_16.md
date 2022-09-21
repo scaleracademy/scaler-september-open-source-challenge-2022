@@ -11,4 +11,4 @@ Task:
 
 2.Try to resolve this merge conflict using local git
 
-3.Once resolved, share screenshot on the Github issue created in the previous challenges
+3.Once resolved, share screenshot on the GitHub issue created in the previous challenges

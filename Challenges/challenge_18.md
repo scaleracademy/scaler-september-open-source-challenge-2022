@@ -9,7 +9,7 @@ Today we will be learning to work with GitHub Gist and Markdown
 GitHub Gist is two fold and you can either use it for sharing ideas or sharing smaple code. It supports **Markdown**
 To learn more, vist:
 
-- [Learn more about GitHub gist](https://help.github.com/en/enterprise/2.13/user/articles/about-gists)
+- [Learn more about GitHub gist] (<https://help.github.com/en/enterprise/2.13/user/articles/about-gists>)
 
 ## Task
 
