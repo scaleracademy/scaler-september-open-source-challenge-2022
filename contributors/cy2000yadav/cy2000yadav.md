@@ -1,8 +1,8 @@
 ---
 name: Chaitanya Yadav
-github_user_name: YOUR-GITHUB-USERNAME
-url_of_github_issue: Link_of_the_github_issue_created_in_first_challenge
-your_favroite_programming_language: Add your favorite programming language here
-your_hosted_github_pages_link: Add your hosted github page link here
-your_hosted_github_pages_repository_link: Add your repository link here
+github_user_name: cy2000yadav
+url_of_github_issue: https://github.com/scaleracademy/scaler-september-open-source-challenge/issues/116
+your_favroite_programming_language: python
+your_hosted_github_pages_link: https://cy2000yadav.github.io/portfolio-website/
+your_hosted_github_pages_repository_link: https://github.com/cy2000yadav/portfolio-website
 ---
