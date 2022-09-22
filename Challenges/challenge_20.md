@@ -4,7 +4,7 @@ Welcome to the 20th Challenge
 
 Today you will learn about project boards on GitHub
 
-## What are Github Project Boards?
+## What are GitHub Project Boards?
 
 GitHub project boards helps you keep track of stuffs you're actively working on within your repository. You can say it's a project managemnet tool, or even a collaboration tool for teams. You create a project board with columns for your TODO or backlogs or even bugs, In progress activies and lastly a column for your finished tasks.
 You can sort of see it as a SCRUM board. To learn more [about project boards go through this link](https://help.github.com/en/github/managing-your-work-on-github/about-project-boards)
@@ -21,4 +21,4 @@ You can sort of see it as a SCRUM board. To learn more [about project boards go 
 ## How to submit your entry
 
 - Take a screenshot of your project board for when you moved an card from `In progress` to `Done`
-- Add you screenshot to the Github issue created in the previous challenges
+- Add you screenshot to the GitHub issue created in the previous challenges
