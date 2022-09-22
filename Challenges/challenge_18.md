@@ -17,6 +17,6 @@ To learn more, vist:
 
 ## How to Submit
 
-- Create your submission a markdown file named ``gist-solutions.md`` and add it inside the branch ``your-username-details`` used in previous challenges
+- Create your submission a Markdown file named ``gist-solutions.md`` and add it inside the branch ``your-username-details`` used in previous challenges
 - In your submission file add the links to your **2 gist**
 - Ensure you push it so that it reflects inside your Pull request created in previous challenges
