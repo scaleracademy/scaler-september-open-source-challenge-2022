@@ -2,7 +2,7 @@
 
 <#a href="https://discord.com/invite/scaler">
   <#p align="center">
-    <#img src="https://user-images.githubusercontent.com/19529592/187837662-ed1d9753-11bf-48dd-86ce-f5683a55d990.png" />
+    <#img src="https://user-images.githubusercontent.com/19529592/187837662-ed1d9753-11bf-48dd-86ce-f5683a55d990.PNG" />
   </p>
 </a>
 
