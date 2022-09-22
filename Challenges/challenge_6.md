@@ -1,3 +1,4 @@
+
 # Welcome to Challenge 6
 
 Welcome to the sixth challenge!
@@ -10,6 +11,7 @@ Task
 In the Markdown file that was created in Challenge 5, edit the details as follows:
 
 ```text
+
 ---
 name: your_name
 github_user_name: YOUR-GITHUB-USERNAME
@@ -20,3 +22,4 @@ url_of_github_issue: Link_of_the_github_issue_created_in_first_challenge
 
 3.After making this change create a commit with a proper commit message and push the changes
 4.Check if the commit reflects in the Pull request you created in Challenge 5
+

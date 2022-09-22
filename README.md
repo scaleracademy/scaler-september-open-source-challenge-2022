@@ -13,6 +13,7 @@ Link for [Notion page](https://scalerdiscord.notion.site/scalerdiscord/Open-Sour
 Every day throughout September, for those who have enrolled, we will share one task.
 Participants will need to use their knowledge of Git and GitHub for each task, and the difficulty level of the tasks will rise daily.
 
+
 The primary objective? To help the community become better at contributing to open source and building projects.
 
 ## Learning Outcomes
@@ -35,6 +36,7 @@ If you haven't already, create an account on GitHub, and brush up on your skills
 Head to the official [Scaler Open Source challenge repository](https://github.com/scaleracademy/scaler-september-open-source-challenge/). Star it.
 Keep track of the README, as a new task will be added every day.
 
+
 ### Step 4
 
 Don't forget to share your progress within the community if you want those rewards!
@@ -56,4 +58,5 @@ For all communications and queries, you can join our [Discord Server](https://di
 2. Git Tutorial: [Full Git Tutorial](https://www.youtube.com/watch?v=ZtfZGVQWjew)
 3. Find good first issues to contribute to: [Good First issues](https://goodfirstissue.dev/)
 4. Getting started with GitHub: [All you need to know about GitHub](https://www.youtube.com/watch?v=8WYXWs96xxc)
+
 5. How to contribute to Open Source: [Open Source contribution guide](https://www.youtube.com/watch?v=ABty2r3nDyU)

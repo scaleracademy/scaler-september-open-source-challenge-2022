@@ -1,3 +1,4 @@
+
 # Contributing Guidelines
 
 Thank you for considering contributing to the repository. This guide details all the general information that one should know before contributing to the project.
