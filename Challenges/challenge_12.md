@@ -9,33 +9,6 @@ So focus for this challenge will be to practice the ``git rebase`` command. We s
 Ensure to practice the ``git rebase`` command by creating your own local git repository. You can checkout this guide: https://www.freecodecamp.org/news/git-squash-explained/
 
 Task: 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> fc216a8 (resolved)
-=======
->>>>>>> ff3784f (resolved)
 1. Practice git rebase, and how to squash commit using git rebase in your local projects 
-=======
-1. Practice git rebase, and how to squash commit susing git rebase in your local projects 
->>>>>>> 941d9b3 (Create challenge_12.md)
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-1. Practice git rebase, and how to squash commit using git rebase in your local projects 
->>>>>>> 693d4c3 (Update challenge_12.md)
-=======
-1. Practice git rebase, and how to squash commit using git rebase in your local projects 
->>>>>>> 1258515 (Create kajalchoudhary1003.md)
-=======
->>>>>>> fc216a8 (resolved)
-=======
-=======
-1. Practice git rebase, and how to squash commit using git rebase in your local projects 
->>>>>>> 693d4c3 (Update challenge_12.md)
->>>>>>> ff3784f (resolved)
 2. Once done, try to squash the commits in your pull request in the Challenge repository
 3. We also see a lot of challengers are not signing their commits. Refer to Challenge 10: https://github.com/scaleracademy/scaler-september-open-source-challenge/blob/main/Challenges/challenge_10.md and ensure to sign your commits. 

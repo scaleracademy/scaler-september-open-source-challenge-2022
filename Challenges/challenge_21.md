@@ -12,14 +12,6 @@ Today we will be learning about Git Aliases! :). This is an amazing feature that
 
  - Go through the Git Alias documentation shared here
  - Create at least 2 alias for any git commands you feel is too long
-<<<<<<< HEAD
-<<<<<<< HEAD
  - Take a screenshot of the alias you created. hint run `git config --get-regexp alias`
-=======
- - Take a screenshot of the alias you created. hint run `git config --list`
->>>>>>> 3d77e9b (challenge 21)
-=======
- - Take a screenshot of the alias you created. hint run `git config --get-regexp alias`
->>>>>>> e3a61ac (Update challenge_21.md)
  - Take a screenshot of using your alias
  - Post these screenshot in the issue created in the prior challenges 
