@@ -10,4 +10,3 @@ Task:
 
 2. Ensure the change appears in the Pull request created in previous challenges
 
->>>>>>> 9f6fbbb (Update challenge_8.md)
