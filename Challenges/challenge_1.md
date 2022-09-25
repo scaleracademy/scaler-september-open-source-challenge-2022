@@ -1,4 +1,4 @@
-## Welcome to Challenge 1
+# Welcome to Challenge 1
 
 Welcome to the first challenge!
 
