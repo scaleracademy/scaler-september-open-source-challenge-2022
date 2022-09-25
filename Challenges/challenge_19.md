@@ -12,4 +12,3 @@ Task:
 
 1. Create a new file inside your branch created in previous challenges `your-username-details` under the directory `contributors/username`. The file needs to be a source code file written in your preferred programming language. The code can be anything you want: hello world program or your favorite program.
 2. Commit the change and push it.
-Footer
