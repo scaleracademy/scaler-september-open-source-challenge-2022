@@ -1,0 +1,3 @@
+# Challenge - 18
+## Task 1 : [Turtle Programming in Python](https://gist.github.com/techysubham/3f0008d6a3017fad7dea6e8ec0a7165c)
+## Task 2 : [Python Vibrate Circle](https://gist.github.com/techysubham/9cf910b643c8d3fa3cef474a05a77036)
