@@ -1,9 +1,9 @@
-## Contributing Guidelines
+# Contributing Guidelines
 
 Thank you for considering contributing to the repository. This guide details all the general information that one should know before contributing to the project.
 Please stick as close as possible to the guidelines. That way we ensure that you have a smooth experience contributing to this project.
 
-### General Rules :
+General Rules :
 These are in general rules that you should be following while contributing to an Open Source project :
 
 - Be Nice, Be Respectful (BNBR)
