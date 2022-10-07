@@ -1,0 +1,2 @@
+- Testing: https://gist.github.com/ano-ny-mous/fdcb7abd4808a223e404a93e0a808f0d
+- Prime number C++ code: https://gist.github.com/ano-ny-mous/1a0022ce92579c9c884d6bed8b6db15f
